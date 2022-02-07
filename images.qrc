@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bird.png</file>
+        <file>pillar.png</file>
+        <file>sky.jpg</file>
+        <file>over.png</file>
+    </qresource>
+</RCC>
